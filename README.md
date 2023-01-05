@@ -1,3 +1,3 @@
 # MyContract
 Testing Out Solidity
-Writing Solidity Contracts
+Writing Solidity Contract
